@@ -11,9 +11,9 @@
 
 
 - :book: I'm a statistician, always ready to learn new things
-- :part_alternation_mark: As a Data Scientist, worked with Python, R, SAS
+- :part_alternation_mark: As a Data Scientist, worked with Python, R, SAS, SQL
 - :pizza: As BI Analyst, worked with Qlik Sense, Power BI
-- :cloud: As Data Engineer, worked with Azure Data Factory, Spark
+- :cloud: As Data Engineer, I'm improving my Azure Data Factory and Spark skills
 - :muscle: Currently learning Java
 - :yum: Love to learn new languages, I think chinese the next one will be 
 - :airplane: Travel is a must!
