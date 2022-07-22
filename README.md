@@ -2,15 +2,15 @@
 
 <div align='center'>
 
-![it's me](Helloworld.gif)
+![it's me](olimaandreza.gif)
 
-╹
+
 </div>
 <div align='center'>
-<a href='https://www.linkedin.com/in/olimaandreza/'>
+<a href='https://www.linkedin.com/in/andrezaolima/'>
     <img width="26" height="26" src="https://img.icons8.com/metro/26/000000/linkedin.png"/>
 </a>
- ╹
+
 
 </div>
 
