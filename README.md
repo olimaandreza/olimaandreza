@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![it's me](olimaandreza.gif)
+![it's me](olimaandreza20x10.gif)
 
 
 </div>
