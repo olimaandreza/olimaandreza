@@ -11,10 +11,10 @@
 
 
 - :book: I'm a statistician, always ready to learn new things
+- :muscle: Currently learning Java
 - :part_alternation_mark: As a Data Scientist, worked with Python, R, SAS, SQL
 - :pizza: As BI Analyst, worked with Qlik Sense, Power BI
 - :cloud: As Data Engineer, I'm improving my Azure Data Factory and Spark skills
-- :muscle: Currently learning Java
 - :yum: Love to learn new languages, I think chinese will be the next one  
 - :airplane: Travel is a must!
 
