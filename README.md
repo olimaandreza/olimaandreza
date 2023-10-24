@@ -15,15 +15,6 @@ You will also see a little bit of Java adventures, but just as a hobby. I'm alwa
 - Learning: Python for Data Science and Data Engineering, a little bit of java and chinese.
 - Languages: Portuguese, English, French, Spanish
 
-## :card_index_dividers: Repositories
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olimaandreza&repo=python-basics&border_color=fff&show_icons=true&theme=city_lights)](https://github.com/olimaandreza/python-basics)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olimaandreza&repo=python-poo&border_color=fff&show_icons=true&theme=city_lights)](https://github.com/olimaandreza/python-poo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olimaandreza&repo=pandas-summary&border_color=fff&show_icons=true&theme=city_lights)](https://github.com//olimaandreza/pandas-summary)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olimaandreza&repo=python-eda-studycase&border_color=fff&show_icons=true&theme=city_lights)](https://github.com/olimaandreza/python-eda-studycase)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olimaandreza&repo=python-cluster-analysis&border_color=fff&show_icons=true&theme=city_lights)](https://github.com/olimaandreza/python-cluster-analysis)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=olimaandreza&repo=python-association-rule&border_color=fff&show_icons=true&theme=city_lights)](https://github.com/olimaandreza/python-association-rule)
-
 ## 🌟 About Me
 
 - 🌌 Dark mode enthusiast.
